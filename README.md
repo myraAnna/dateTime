@@ -2,6 +2,8 @@
 
 This project demonstrates the implementation of a DateTime Picker component using Material-UI (MUI) and Material-UI X within a React framework.
 
+![Opera Snapshot_2023-12-20_213807_localhost](https://github.com/myraAnna/dateTime/assets/86984336/16b76931-651a-4cfc-bd79-cce3cb41997c)
+
 ## Available Scripts
 
 In the project directory, you can run:
