@@ -1,9 +1,11 @@
 # Getting Started with dateTime Picker
 
+This project demonstrates the implementation of a DateTime Picker component using Material-UI (MUI) and Material-UI X within a React framework.
+
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm i`
 ### `npm start`
 
 Runs the app in the development mode.\
